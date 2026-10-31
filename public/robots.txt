@@ -1,0 +1,5 @@
+# SentinelCore Robot Directives
+User-agent: *
+Allow: /
+
+Sitemap: /sitemap.xml
